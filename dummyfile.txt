@@ -1,3 +1,0 @@
-This is a dummy file.
-
-The goal is to see if pipeline works.
